@@ -1,1 +1,4 @@
 main
+{
+	new_or_old();
+}
