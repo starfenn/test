@@ -1,5 +1,9 @@
 main
+
 {
 	creatnode();
 	new_or_old();
+	AddNewNode();
 }
+
+
